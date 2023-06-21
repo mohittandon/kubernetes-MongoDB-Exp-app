@@ -1,4 +1,4 @@
-# kubernetes-mern-app
+# kubernetes-commands
 
 # commands that are used in this Project.
 
